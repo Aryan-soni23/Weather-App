@@ -16,8 +16,8 @@
 ---
 
 ## Prerequisites
-A modern web browser.
-An API key from OpenWeatherMap Api
+- A modern web browser.
+- An API key from OpenWeatherMap Api.
 
 ---
 
