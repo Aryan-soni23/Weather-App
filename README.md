@@ -28,9 +28,8 @@ const apiKey = '';
 
 ## 📁 File Structure
 
-weather-sphere/
-│
-├── index.html          # Main HTML structure
-├── style.css           # Custom styles (if separated from <style> block)
-├── script.js           # All JavaScript functionality
-├── README.md           # Project documentation
+weather-sphere
+- ├── index.html          # Main HTML structure
+- ├── style.css           # Custom styles 
+- ├── script.js           # All JavaScript functionality
+- ├── README.md           # Project documentation
